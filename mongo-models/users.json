@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "name": "super admin",
+    "email": "super-admin@admin.com",
+    "img_path": null,
+    "thumbnail": null,
+    "email_verified_at": "2021-05-25T09:59:51.000Z",
+    "password": "$2y$10$EqqwTfwh6pzvjXcPifh9k.KRqiROrgktDD/7UOrfD8b.VfKDcP2ie",
+    "remember_token": "nbIUae2OnT",
+    "created_at": "2021-05-25T09:59:51.000Z",
+    "updated_at": "2021-05-25T09:59:51.000Z",
+    "deleted_at": null
+  },
+  {
+    "id": 2,
+    "name": "admin",
+    "email": "admin@admin.com",
+    "img_path": null,
+    "thumbnail": null,
+    "email_verified_at": "2021-05-25T09:59:51.000Z",
+    "password": "$2y$10$8LTiyBUUx2Gz4kbIiz5B8OPwj27YorH88GvZoAelpnjZLkPwSFO9G",
+    "remember_token": "WfJETShymc",
+    "created_at": "2021-05-25T09:59:51.000Z",
+    "updated_at": "2021-05-25T09:59:51.000Z",
+    "deleted_at": null
+  }
+]
